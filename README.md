@@ -1,4 +1,4 @@
-# StormsAnalysis
+# Storms Database Analysis
 
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
 
@@ -6,4 +6,4 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 
 The data analysis showed that tornadoes have the highest impact to population health, whilst floods have the highest economic impact.
 
-In the /ShinyApp folder is the code for running my webapp for exploring the data further. Here is a link for the webapp itself: [link](https://aem56.shinyapps.io/StormsAnalysis/).
+In the ShinyApp folder is the code for running my webapp for exploring the data further. Here is a link for the webapp itself: [link](https://aem56.shinyapps.io/StormsAnalysis/).
