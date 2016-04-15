@@ -6,4 +6,4 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 
 The data analysis showed that tornadoes have the highest impact to population health, whilst floods have the highest economic impact.
 
-In the ShinyApp folder is the code for running my webapp for exploring the data further. Here is a link for the webapp itself: [link](https://aem56.shinyapps.io/StormsAnalysis/).
+In the ShinyApp [folder](https://github.com/aem56/StormsAnalysis/tree/master/ShinyApp) is the code for running my webapp for exploring the data further. Here is a link for the [webapp](https://aem56.shinyapps.io/StormsAnalysis/).
