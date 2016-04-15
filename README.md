@@ -4,6 +4,6 @@ Storms and other severe weather events can cause both public health and economic
 
 This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm. The database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage. I analyse the database to evaluate which events are most harmful to population health and have the greatest economic impact.
 
-The data analysis showed that tornadoes have the highest impact to population health, whilst floods have the highest economic impact.
+The data was tidied and analysed (see the Data Analysis [folder](https://github.com/aem56/StormsAnalysis/tree/master/Data%20Analysis) for more information), it showed that tornadoes have the highest impact to population health, whilst floods have the highest economic impact.
 
-In the ShinyApp [folder](https://github.com/aem56/StormsAnalysis/tree/master/ShinyApp) is the code for running my webapp for exploring the data further. Here is a link for the [webapp](https://aem56.shinyapps.io/StormsAnalysis/).
+I built an online interactive [webapp](https://aem56.shinyapps.io/StormsAnalysis/) where you can explore the data further. See the ShinyApp [folder](https://github.com/aem56/StormsAnalysis/tree/master/ShinyApp) for the code behind the webapp.
