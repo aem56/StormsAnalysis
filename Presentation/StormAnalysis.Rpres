@@ -2,7 +2,9 @@ US Storm Database Analysis
 ========================================================
 author: Aristide Mooyaart
 date: 16/04/16
-autosize: true
+width:1500
+height:1500
+#autosize: true
 
 Introduction
 ========================================================
