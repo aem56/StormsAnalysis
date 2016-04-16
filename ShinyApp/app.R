@@ -13,7 +13,8 @@ DataByYear<- function(data, yearStart, yearEnd, events){
 ui<-fluidPage(
     headerPanel("Storm Database Explorer"),
     sidebarPanel(
-        p("Use this webapp to explore the US National Oceanic and Atmospheric Asministration's storm database. You can select a year range and storm types below."),
+        p("Use this webapp to explore the US National Oceanic and Atmospheric Asministration's storm database. 
+          You can select a year range and storm types below."),
         p("The source code for processing the database and for this webapp is available on my ",
           a("github.", href="https://github.com/aem56/StormsAnalysis")),
         sliderInput("yearRange","Year Range:",min=1950,max=2011,value = c(1990,2011)),
