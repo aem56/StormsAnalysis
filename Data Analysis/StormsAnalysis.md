@@ -203,5 +203,5 @@ ggplot(EGraph,aes(x=EVTYPE,y=value))+geom_bar(stat="identity")+
   
 ##Conclusion
   
-The first plot shows that a tornado leads (by far) to the most fatalities and injuries, compared to the runners up - excessive heat, TSTM wind, floods and lightning. The number of fatalities is always a lot smaller than the number of injuries.  
-The second plot shows that a flood leads to the highest economic damage (both property and crops), compared to the runners up - hurricane/typhoons, tornadoes, storm surges and hail. In general the damage cost to property is orders of magnitude higher than the damage cost to crops.
+The first plot shows that a tornado leads (by far) to the most fatalities and injuries, compared to the runners up - lightning, excessive heat, floods and flash floods. The number of fatalities is always a lot smaller than the number of injuries.  
+The second plot shows that a flood leads to the highest economic damage (both property and crops), compared to the runners up - tornadoes, coastal floods, hail and flash floods. In general the damage cost to property is orders of magnitude higher than the damage cost to crops.
